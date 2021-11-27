@@ -1,5 +1,7 @@
 body {
-  width: 55%;
+  width: 95%;
+  max-width: 800px;
+  margin: auto;
 
   margin: auto;
   background: url(fundo.jpg.jpg) center;
