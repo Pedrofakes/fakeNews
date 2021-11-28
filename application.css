@@ -7,7 +7,7 @@ body {
   background: url(fundo.jpg) center;
 
   font-family:'lato';
-    color: #000000;
+    color: hsl(0, 0%, 0%);
     line-height: 2.0
 }
 
