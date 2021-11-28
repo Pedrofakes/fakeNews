@@ -19,6 +19,6 @@ border-radius: 10px;
 }
 
 .logo, .band-name, .headline {
-  margin: 0;
-  text-align: center;
+  margin: 10px 50px 20px;
+  text-align: left;
 }
